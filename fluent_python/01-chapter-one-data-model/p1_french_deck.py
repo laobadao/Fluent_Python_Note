@@ -42,7 +42,8 @@ class FrenchDeck:
         # >> > beer_card
         # Card(rank='7', suit='diamonds')
         # >> > exit()
-
+    #  当前路径下 执行，可以写相对路径，否则 需要写绝对路径
+    # D:\github\python\Fluent_Python_Note\fluent_python\01 - chapter - one - data - model > python
     # >> > from p1_french_deck import FrenchDeck
     # >> > deck = FrenchDeck()
     # >> > len(deck)
